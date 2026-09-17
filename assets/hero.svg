@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="480" viewBox="0 0 1200 480" role="img" aria-labelledby="title desc">
+  <title id="title">ChefZC — stay curious, stay passionate</title>
+  <desc id="desc">Mint green digital identity card with electric blue orbital graphics and magenta accents. Year 12 IB student in Dubai, exploring AI, engineering and life.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#174f38" stroke-opacity=".08"/></pattern>
+    <radialGradient id="glow"><stop stop-color="#f1fff0"/><stop offset="1" stop-color="#cafaac"/></radialGradient>
+    <clipPath id="round"><rect width="1200" height="480" rx="24"/></clipPath>
+  </defs>
+  <g clip-path="url(#round)">
+    <rect width="1200" height="480" fill="#d6f7bd"/><rect width="1200" height="480" fill="url(#grid)"/>
+    <path d="M0 60H1200M0 420H1200" stroke="#16432c" stroke-opacity=".18"/>
+    <g font-family="monospace" font-size="14" fill="#15402c" letter-spacing="2"><text x="38" y="38">CHEFZC / PERSONAL SYSTEM</text><text x="944" y="38">DUBAI, UAE ↗</text></g>
+    <circle cx="904" cy="244" r="171" fill="url(#glow)"/>
+    <g fill="none" stroke="#2457ff" stroke-width="1.7" opacity=".85">
+      <circle cx="908" cy="240" r="128"/><ellipse cx="908" cy="240" rx="68" ry="128"/><ellipse cx="908" cy="240" rx="23" ry="128"/>
+      <ellipse cx="908" cy="240" rx="128" ry="42"/><ellipse cx="908" cy="240" rx="128" ry="90"/>
+      <path d="M780 240h256M908 112v256"/>
+      <ellipse cx="908" cy="240" rx="202" ry="54" transform="rotate(-32 908 240)"/>
+      <path d="M716 115v-20h20m363 20V95h-20M716 365v20h20m363-20v20h-20"/>
+    </g>
+    <g fill="#ee2380"><circle cx="1068" cy="144" r="11"/><circle cx="747" cy="338" r="7"/><path d="M1060 311h45v9h-45zm18-18h9v45h-9z"/></g>
+    <rect x="40" y="97" width="191" height="29" rx="14.5" fill="#15402c"/><circle cx="56" cy="112" r="4" fill="#bbfa72"/>
+    <text x="70" y="117" font-family="monospace" font-size="12" letter-spacing="1.6" fill="#ddffc5">ALWAYS EXPLORING</text>
+    <text x="34" y="254" font-family="Arial,Helvetica,sans-serif" font-weight="800" font-size="132" letter-spacing="-8" fill="#102d22">ChefZC<tspan fill="#2457ff">.</tspan></text>
+    <path d="M41 284h68" stroke="#ed2380" stroke-width="6"/>
+    <text x="41" y="322" font-family="Arial,Helvetica,sans-serif" font-size="25" font-weight="600" fill="#15402c">A curious mind. A life in full colour.</text>
+    <text x="41" y="363" font-family="monospace" font-size="16" fill="#315744">YEAR 12 / IB STUDENT / AI &amp; ENGINEERING</text>
+    <g font-family="monospace" font-size="14" fill="#16432c"><text x="40" y="456">KEEP LEARNING. KEEP MAKING.</text><text x="854" y="456">VIVA LA VIDA <tspan fill="#ed2380">✦</tspan> EST. 2026</text></g>
+    <path d="M0 479h370" stroke="#2457ff" stroke-width="6"/><path d="M370 479h130" stroke="#ee2380" stroke-width="6"/>
+  </g>
+</svg>
+
