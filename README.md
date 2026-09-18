@@ -1,73 +1,67 @@
-<a href="https://chefzc-homepage.vercel.app"><img src="./assets/hero.svg" width="100%" alt="ChefZC — Year 12 IB student in Dubai. Stay curious, stay passionate." /></a>
+<a href="https://chefzc-homepage.vercel.app"><img src="assets/hero.svg" width="100%" alt="ChefZC — Year 12 IB student in Dubai. Stay curious, stay passionate." /></a>
 
-<p align="center">
-  <a href="https://chefzc-homepage.vercel.app"><b>ENTER MY SPACE ↗</b></a> &nbsp; · &nbsp;
-  <a href="https://chefzc-homepage.vercel.app/gallery.html">Gallery / 作品</a> &nbsp; · &nbsp;
-  <a href="https://chefzc-homepage.vercel.app/posts.html">Posts / 随笔</a> &nbsp; · &nbsp;
-  <a href="https://chefzc-homepage.vercel.app/now.html">Now / 近况</a> &nbsp; · &nbsp;
-  <a href="https://chefzc-homepage.vercel.app/profile.html#music">On repeat / 音乐</a>
-</p>
+<p align="center"><b>English</b> · <a href="README.zh-CN.md">简体中文</a></p>
+<p align="center"><a href="https://chefzc-homepage.vercel.app"><b>ENTER MY SPACE ↗</b></a> &nbsp; · &nbsp; <a href="https://chefzc-homepage.vercel.app/gallery.html">Gallery</a> &nbsp; · &nbsp; <a href="https://chefzc-homepage.vercel.app/posts.html">Posts</a> &nbsp; · &nbsp; <a href="https://chefzc-homepage.vercel.app/now.html">Now</a> &nbsp; · &nbsp; <a href="https://chefzc-homepage.vercel.app/profile.html#music">On repeat</a></p>
 
 ### `01` &nbsp; Hey, I'm ChefZC.
 
-我是一名在迪拜 **GEMS Wellington International School** 读 IB 的 **Year 12 高中生**。喜欢动手折腾 Agent，正在学习神经网络，也一直关注 AI 与电脑硬件。未来，希望成为一名计算机工程师，或者空气动力学设计者。
+I'm a **Year 12 IB student** at **GEMS Wellington International School in Dubai**. I like experimenting with agents, learning about neural networks, following AI developments and exploring computer hardware. I'd love to become a computer engineer or work in aerodynamic design.
 
-我向往广阔的远方、世界的美景，也珍惜眼前的小小美好。在代码之外，你大概能在篮球场、F1 比赛前，或一张画纸旁找到我。
+I'm drawn to distant places and the beauty of the world, but also to the good things right in front of me. Outside code, you'll find me on a basketball court, watching a race, drawing or practising calligraphy. Here to learn, build, and enjoy the journey.
 
-*An IB student in Dubai, exploring AI, agents and the ideas that might shape my future. Here to learn, build, and enjoy the journey — on the court, by the track, and beyond the screen.*
+<img src="assets/signals.svg" width="100%" alt="AI and agents; Curry and NBA basketball; Leclerc, F1 and Le Mans; drawing, calligraphy and music." />
 
-<img src="./assets/signals.svg" width="100%" alt="My interests: AI and agents; basketball, Curry and NBA; F1, Leclerc and Le Mans; drawing, calligraphy and music." />
+### `02` &nbsp; Things I made.
 
-### `02` &nbsp; Things I made / 我的作品
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-folio"><img src="assets/folio.svg" width="100%" alt="Folio 1.1 — The open road. Cream paper, terracotta and editorial typography." /></a>
 
-<a href="https://chefzc-homepage.vercel.app/gallery.html#project-folio"><img src="./assets/folio.svg" width="100%" alt="Folio 1.0 — a considered home for your games and mods. Cream paper, terracotta and editorial typography." /></a>
+**Folio 1.1 · Mod Studio** — a home for the things you love.
 
-**Folio 1.0 · 模组手帖** — 为热爱，留一席之地。
+A quiet Windows studio for games and mods, built with Electron, React and TypeScript. Version 1.1 adds dedicated FH6 tools, a Nexus reading room and a version journal, while keeping the original NBA 2K27 resource organisation. Cream paper and terracotta give the practical work of organising files the feeling of turning a journal's pages.
 
-一间安静的 Windows 游戏与模组收藏工作室。优先适配 NBA 2K27，支持资源归档、文件树、ZIP 导入预览与停用恢复。奶油纸、陶土橙与出版物式排版，让整理文件也有翻阅手帖的心情。
+Nexus currently uses a personal API key; SSO is unavailable. Live account/download flows and in-game compatibility remain unverified.
 
-*A Windows mod studio built with Electron, React and TypeScript. My second released project, made for the games I love.*
+[**GET 1.1 ↓**](https://github.com/ChefDavid0815/folio-mod-studio/releases/tag/v1.1.0) &nbsp; / &nbsp; [**EXPLORE THE CODE ↗**](https://github.com/ChefDavid0815/folio-mod-studio) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#folio-history)
 
-[**下载 1.0 ↓**](https://github.com/ChefDavid0815/folio-mod-studio/releases/tag/v1.0.0) &nbsp; / &nbsp; [**探索源码 ↗**](https://github.com/ChefDavid0815/folio-mod-studio) &nbsp; / &nbsp; [**阅读制作手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=folio)
+#### My first released project.
 
-#### First release / 我的第一个项目
+<a href="https://chefzc-homepage.vercel.app/play/nba-after-hours/"><img src="assets/first-project.svg" width="100%" alt="NBA After Hours — 30 teams, 3v3 and 5v5. My first released project." /></a>
 
-<a href="https://chefzc-homepage.vercel.app/play/nba-after-hours/"><img src="./assets/first-project.svg" width="100%" alt="NBA After Hours — 30 teams, 3v3 and 5v5. My first released project." /></a>
+**NBA After Hours** — a love for basketball, a court of my own.
 
-**NBA After Hours / 决胜时刻** — 把对篮球的热爱，做成一座自己的球场。
+A browser-based 3D arcade basketball game with 30 teams, cross-era lineups, a championship run, practice and challenges. Bring a friend for local two-player matches. Chinese and English, keyboard, controller and touch. Made with Three.js and TypeScript.
 
-浏览器里的 3D 街机篮球：30 支球队、跨时代阵容、冠军征程、训练与挑战，也能和朋友同机对战。支持中英文、键盘、手柄与触屏。
+[**PLAY NOW ↗**](https://chefzc-homepage.vercel.app/play/nba-after-hours/) &nbsp; / &nbsp; [**EXPLORE THE CODE ↗**](https://github.com/ChefDavid0815/nba-after-hours) &nbsp; / &nbsp; [**THE EXHIBITION ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-nba-after-hours)
 
-*My first released project. Built with Three.js and TypeScript. Play a quick game, chase a championship, or bring a friend for local two-player basketball.*
+Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite racing driver. NBA, F1, Le Mans, playing basketball and 2K, drawing and calligraphy all have a place in my life.
 
-[**立即上场 · PLAY NOW ↗**](https://chefzc-homepage.vercel.app/play/nba-after-hours/) &nbsp; / &nbsp; [**探索源码 ↗**](https://github.com/ChefDavid0815/nba-after-hours) &nbsp; / &nbsp; [**Gallery 展位 ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-nba-after-hours)
-
-### `03` &nbsp; Currently in my world
+### `03` &nbsp; Currently in my world.
 
 | Signal | What's happening |
 | :--- | :--- |
-| 🧠 **Learning** | 神经网络、AI Agent，以及把想法做出来的能力。 |
-| 🗂️ **Folio 1.0** | [模组手帖](https://github.com/ChefDavid0815/folio-mod-studio) — Windows 安装版与免安装版。 |
-| 🏀 **Released** | [NBA After Hours](https://github.com/ChefDavid0815/nba-after-hours) — 第一个正式项目，已可在线游玩。 |
-| 🛠️ **Making** | [我的个人主页](https://chefzc-homepage.vercel.app) — 个人介绍、真实项目 Gallery、Posts 随笔、Now 时间线与私人唱片架。 |
-| 🏁 **Dreaming** | Computer engineering / Aerodynamic design. 两条都让我心动的未来方向。 |
-| 🎧 **On repeat** | 薛之谦《守村人》、周杰伦《七里香》。[逛逛我的音乐宇宙 ↗](https://chefzc-homepage.vercel.app/profile.html#music) |
+| **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
+| **Folio 1.1** | [Mod Studio](https://github.com/ChefDavid0815/folio-mod-studio), available as a Windows installer or portable app. |
+| **Released** | [NBA After Hours](https://github.com/ChefDavid0815/nba-after-hours), my first project, playable online. |
+| **Making** | [My personal space](https://chefzc-homepage.vercel.app): profile, real-project Gallery, Posts, a Now timeline and a record shelf. |
+| **Dreaming** | Computer engineering or aerodynamic design. Two futures I'd love to explore. |
+| **On repeat** | Joker Xue's《守村人》and Jay Chou's《七里香》. [Visit my record shelf ↗](https://chefzc-homepage.vercel.app/profile.html#music) |
 
-周杰伦 · 薛之谦 · 邓紫棋 · 陶喆 · 门尼 · 陈奕迅 · 许嵩 · 张靓颖 · 林俊杰
+Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu · Jane Zhang · JJ Lin
 
-### `04` &nbsp; Small beginnings, real progress
+### `04` &nbsp; Small beginnings, real progress.
 
-```text
-2026.09.17  ──  发布 Folio 1.0；Posts 写下首批三篇随笔。
-2026.09.17  ──  发布第一个正式项目：NBA After Hours。
-2026.09.17  ──  给主页加入音乐模块：9 位歌手，84 首精选。
-2026.09.16  ──  正式创造自己的个人主页。
-2026.08.27  ──  正式步入 IB。
-2026.04.20  ──  开始接触 Agents，好奇心有了新的方向。
-```
+| Date | A page in the journal |
+| :--- | :--- |
+| **2026.09.18** | Released Folio 1.1: FH6, the Nexus reading room and version journal. |
+| **2026.09.17** | Released Folio 1.0 and published the first three Posts. |
+| **2026.09.17** | Released my first project, NBA After Hours. |
+| **2026.09.17** | Added a music module: nine artists, 84 selected songs. |
+| **2026.09.16** | Officially started building my personal website. |
+| **2026.08.27** | Started the IB. |
+| **2026.04.20** | Began exploring agents: a new direction for my curiosity. |
 
 <details>
-<summary><b>⌘ My digital desk / 我的数字工作台</b></summary>
+<summary><b>⌘ My digital desk</b></summary>
 
 | Device | Configuration |
 | :--- | :--- |
@@ -78,10 +72,12 @@
 
 </details>
 
-### `05` &nbsp; Say hello
+### `05` &nbsp; Say hello.
 
-聊 AI、篮球、赛车，或者一个有意思的新想法。
+AI, basketball, racing, or an interesting idea — I'd love to talk.
 
 [**Email ↗**](mailto:zzichuan0808@outlook.com) &nbsp; / &nbsp; [**Instagram @chefzichuan ↗**](https://www.instagram.com/chefzichuan/) &nbsp; / &nbsp; [**My website ↗**](https://chefzc-homepage.vercel.app)
 
-<img src="./assets/footer.svg" width="100%" alt="保持热忱，保持热爱。Viva la vida." />
+**Stay passionate. Keep loving life. Viva la vida.**
+
+<img src="assets/footer.svg" width="100%" alt="保持热忱，保持热爱。Viva la vida." />
