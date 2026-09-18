@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
+
+**Horizon Festival Toolkit 0.1.1** — every week, a little brighter.
+
+My fourth project: a Windows utility for FH6 seasonal records, selected-week edits, backup and recovery. Five series, twenty weeks, Chinese and English. A mint, blue and pink festival pass gives it a place in the Gallery. Encrypted saves use a third-party online service; in-game effects remain unverified.
+
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.1.1) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
+
 <a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
 
 **AXIOM · Scientific plotting studio** — from data to discovery.
@@ -47,6 +55,7 @@ Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite
 
 | Signal | What's happening |
 | :--- | :--- |
+| **Festival Toolkit 0.1.1** | Seasonal save workshop. Project four, for Windows. |
 | **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
 | **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
 | **Folio 1.1** | [Mod Studio](https://github.com/ChefDavid0815/folio-mod-studio), available as a Windows installer or portable app. |
@@ -61,6 +70,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.18** | Published Festival Toolkit with its exhibition and build journal. |
 | **2026.09.18** | Published AXIOM 1.0 on the web: scientific plotting, maths and physics. |
 | **2026.09.18** | Released Folio 1.1: FH6, the Nexus reading room and version journal. |
 | **2026.09.17** | Released Folio 1.0 and published the first three Posts. |
