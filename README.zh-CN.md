@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
+
+**AXIOM · 格物** — 让数据，形成观点。
+
+我的第三件作品，也是在 IB 学习路上为自己做的一件工具。九种图表、22 条可计算公式、拟合与误差分析，配合研究、IB 学生和专业三种模式。网页版数据本地处理，也有 Windows 版本。冷白、墨黑、荧光黄绿与钴蓝，是它自己的科学气质。
+
+[**打开 AXIOM ↗**](https://chefzc-axiom.vercel.app) &nbsp; / &nbsp; [**探索源码 ↗**](https://github.com/ChefDavid0815/axiom-studio) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-axiom) &nbsp; / &nbsp; [**制作手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=axiom)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-folio"><img src="./assets/folio.svg" width="100%" alt="Folio 1.1 — a considered home for your games and mods. Cream paper, terracotta and editorial typography." /></a>
 
 **Folio 1.1 · 模组手帖** — 为热爱，留一席之地。
@@ -50,6 +58,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
 | 🧠 **学习** | 神经网络、AI Agent，以及把想法做出来的能力。 |
 | 🗂️ **Folio 1.1** | [模组手帖](https://github.com/ChefDavid0815/folio-mod-studio) — Windows 安装版与免安装版。 |
 | 🏀 **已发布** | [NBA After Hours](https://github.com/ChefDavid0815/nba-after-hours) — 第一个正式项目，已可在线游玩。 |
@@ -62,6 +71,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.18  ──  AXIOM · 格物网页版上线：让数据，形成观点。
 2026.09.18  ──  发布 Folio 1.1：FH6、Nexus 书房与版本手记。
 2026.09.17  ──  发布 Folio 1.0；Posts 写下首批三篇随笔。
 2026.09.17  ──  发布第一个正式项目：NBA After Hours。

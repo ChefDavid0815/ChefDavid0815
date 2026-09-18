@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
+
+**AXIOM · Scientific plotting studio** — from data to discovery.
+
+My third project: a scientific plotting and maths/physics workspace, built while studying the IB. Nine chart types, 22 formula calculators, regression and uncertainty tools, in Research, IB Student and Professional modes. Available in the browser, with data processed locally; also built for Windows. The current app UI is Chinese, with bilingual documentation.
+
+[**OPEN AXIOM ↗**](https://chefzc-axiom.vercel.app) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/axiom-studio) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-axiom) &nbsp; / &nbsp; [**BUILD NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=axiom)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-folio"><img src="assets/folio.svg" width="100%" alt="Folio 1.1 — The open road. Cream paper, terracotta and editorial typography." /></a>
 
 **Folio 1.1 · Mod Studio** — a home for the things you love.
@@ -39,6 +47,7 @@ Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite
 
 | Signal | What's happening |
 | :--- | :--- |
+| **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
 | **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
 | **Folio 1.1** | [Mod Studio](https://github.com/ChefDavid0815/folio-mod-studio), available as a Windows installer or portable app. |
 | **Released** | [NBA After Hours](https://github.com/ChefDavid0815/nba-after-hours), my first project, playable online. |
@@ -52,6 +61,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.18** | Published AXIOM 1.0 on the web: scientific plotting, maths and physics. |
 | **2026.09.18** | Released Folio 1.1: FH6, the Nexus reading room and version journal. |
 | **2026.09.17** | Released Folio 1.0 and published the first three Posts. |
 | **2026.09.17** | Released my first project, NBA After Hours. |
