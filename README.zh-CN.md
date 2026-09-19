@@ -62,10 +62,21 @@
 
 我最喜欢的篮球球星是斯蒂芬·库里，最喜欢的车手是夏尔·勒克莱尔。看 NBA、F1 和勒芒，打篮球、玩 2K、画画和写书法，都是生活里不可少的快乐。
 
+### 校园实验室 / 让想法，慢慢生长。
+
+<a href="https://chefzc-homepage.vercel.app/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — 晨光里的森林步道，为 WIS TECH TANK 校园实验室铺开自然的绿色。" /></a>
+
+**STRIDE · WIS TECH TANK 0.2.0** — 感知多一点，下一步更从容。
+
+为学校展示制作的环境感知原型：九种模拟场景、语音与振动反馈、行走速度调节，还有可以翻看的判断记录。可选本地视觉模型用于探索真实环境输入。个人网站新开了独立的**校园实验室**分页，用森林绿与纸张白做成自然主题展柜，也放进了一本可以切换场景的观察手记。课堂概念原型，不用于现实导航。
+
+[**打开 STRIDE ↗**](https://chefzc-wis-tech-tank.vercel.app) &nbsp; / &nbsp; [**探索源码 ↗**](https://github.com/ChefDavid0815/wis-tech-tank) &nbsp; / &nbsp; [**校园实验室 ↗**](https://chefzc-homepage.vercel.app/school-gallery.html) &nbsp; / &nbsp; [**观察手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=wis-tech-tank)
+
 ### `03` &nbsp; 最近的世界
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
 | **Festival Toolkit 0.1.1** | 季节赛存档工坊，第四件 Windows 作品。 |
 | **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
 | 🧠 **学习** | 神经网络、AI Agent，以及把想法做出来的能力。 |
@@ -80,6 +91,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.19  ──  WIS TECH TANK · STRIDE 上线，校园实验室展厅开放。
 2026.09.18  ──  Festival Toolkit 加入作品集，同步四季展柜与制作手记。
 2026.09.18  ──  AXIOM · 格物网页版上线：让数据，形成观点。
 2026.09.18  ──  发布 Folio 1.1：FH6、Nexus 书房与版本手记。

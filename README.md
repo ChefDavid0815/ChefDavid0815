@@ -51,10 +51,21 @@ A browser-based 3D arcade basketball game with 30 teams, cross-era lineups, a ch
 
 Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite racing driver. NBA, F1, Le Mans, playing basketball and 2K, drawing and calligraphy all have a place in my life.
 
+### School lab / Ideas that take root.
+
+<a href="https://chefzc-homepage.vercel.app/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — a quiet woodland path. Forest green and morning light introduce the WIS TECH TANK school lab." /></a>
+
+**STRIDE · WIS TECH TANK 0.2.0** — a little awareness, a better next step.
+
+A school presentation project with nine simulated walking environments, speech and haptic feedback, adjustable speed and a decision log. Optional local vision models explore real environment input. The website has a separate **School Lab** collection for classroom projects, with a natural green exhibition and an interactive field book. A classroom prototype, not a real-world navigation aid.
+
+[**OPEN STRIDE ↗**](https://chefzc-wis-tech-tank.vercel.app) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/wis-tech-tank) &nbsp; / &nbsp; [**SCHOOL LAB ↗**](https://chefzc-homepage.vercel.app/school-gallery.html) &nbsp; / &nbsp; [**FIELD NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=wis-tech-tank)
+
 ### `03` &nbsp; Currently in my world.
 
 | Signal | What's happening |
 | :--- | :--- |
+| **WIS TECH TANK · STRIDE** | [School lab](https://chefzc-homepage.vercel.app/school-gallery.html): nine simulated environments, now on the web. |
 | **Festival Toolkit 0.1.1** | Seasonal save workshop. Project four, for Windows. |
 | **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
 | **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
@@ -70,6 +81,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.19** | Published STRIDE for WIS TECH TANK and opened the School Lab collection. |
 | **2026.09.18** | Published Festival Toolkit with its exhibition and build journal. |
 | **2026.09.18** | Published AXIOM 1.0 on the web: scientific plotting, maths and physics. |
 | **2026.09.18** | Released Folio 1.1: FH6, the Nexus reading room and version journal. |
