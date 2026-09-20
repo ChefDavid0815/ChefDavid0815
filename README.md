@@ -51,21 +51,21 @@ A browser-based 3D arcade basketball game with 30 teams, cross-era lineups, a ch
 
 Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite racing driver. NBA, F1, Le Mans, playing basketball and 2K, drawing and calligraphy all have a place in my life.
 
-### The 3D collection / A new dimension.
+### The 3D collection / BIG LOVE. THREE DIMENSIONS.
 
-<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center"><img src="assets/arena-models.svg" width="100%" alt="NBA Arena Models — architectural studies in blue, gold and glass"></a>
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center"><img src="assets/arena-models.svg" width="100%" alt="NBA Arena Models — architecture in cobalt, yellow and comic halftones"></a>
 
 **NBA Arena Models** — first collection: Chase Center.
 
-A separate, growing arena library. Chase Center has two switchable, draggable 3D glass cases for its interior and exterior. Complete Blender source, Unreal-importable FBXs and required materials are available in free versioned downloads. More arenas can join the collection over time.
+A growing arena library, with cobalt, yellow, comic halftones and animated glass cases. Chase Center has two switchable, draggable 3D glass cases for its interior and exterior. Complete Blender source, Unreal-importable FBXs and required materials are available in free versioned downloads. More arenas can join the collection over time.
 
 [**3D EXHIBITION ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center) · [**MODEL LIBRARY ↗**](https://github.com/ChefDavid0815/nba-arena-models) · [**FREE DOWNLOAD ↓**](https://github.com/ChefDavid0815/nba-arena-models/releases/tag/v0.1.0)
 
-<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head"><img src="assets/player-models.svg" width="100%" alt="NBA Player Models — portrait studies in blue, gold and glass"></a>
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head"><img src="assets/player-models.svg" width="100%" alt="NBA Player Models — portraits in cobalt and hot pink"></a>
 
 **NBA Player Models** — first collection: Stephen Curry head study.
 
-A separate character library with room for more players. The Curry asset is prepared and adapted from a purchased third-party MNJ mod: face, hair, eyes and mouth components. A head prototype without a complete facial animation system. Free download does not change third-party rights or existing terms.
+A cobalt-and-hot-pink portrait collection with room for more players. The Curry asset is prepared and adapted from a purchased third-party MNJ mod: face, hair, eyes and mouth components. A head prototype without a complete facial animation system. Free download does not change third-party rights or existing terms.
 
 [**3D EXHIBITION ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head) · [**MODEL LIBRARY ↗**](https://github.com/ChefDavid0815/nba-player-models) · [**FREE DOWNLOAD ↓**](https://github.com/ChefDavid0815/nba-player-models/releases/tag/v0.1.0) · [**COLLECTION NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=courtside-collection)
 
