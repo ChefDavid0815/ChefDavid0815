@@ -51,6 +51,24 @@ A browser-based 3D arcade basketball game with 30 teams, cross-era lineups, a ch
 
 Stephen Curry is my favourite basketball player; Charles Leclerc is my favourite racing driver. NBA, F1, Le Mans, playing basketball and 2K, drawing and calligraphy all have a place in my life.
 
+### The 3D collection / A new dimension.
+
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center"><img src="assets/arena-models.svg" width="100%" alt="NBA Arena Models — architectural studies in blue, gold and glass"></a>
+
+**NBA Arena Models** — first collection: Chase Center.
+
+A separate, growing arena library. Chase Center has two switchable, draggable 3D glass cases for its interior and exterior. Complete Blender source, Unreal-importable FBXs and required materials are available in free versioned downloads. More arenas can join the collection over time.
+
+[**3D EXHIBITION ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center) · [**MODEL LIBRARY ↗**](https://github.com/ChefDavid0815/nba-arena-models) · [**FREE DOWNLOAD ↓**](https://github.com/ChefDavid0815/nba-arena-models/releases/tag/v0.1.0)
+
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head"><img src="assets/player-models.svg" width="100%" alt="NBA Player Models — portrait studies in blue, gold and glass"></a>
+
+**NBA Player Models** — first collection: Stephen Curry head study.
+
+A separate character library with room for more players. The Curry asset is prepared and adapted from a purchased third-party MNJ mod: face, hair, eyes and mouth components. A head prototype without a complete facial animation system. Free download does not change third-party rights or existing terms.
+
+[**3D EXHIBITION ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head) · [**MODEL LIBRARY ↗**](https://github.com/ChefDavid0815/nba-player-models) · [**FREE DOWNLOAD ↓**](https://github.com/ChefDavid0815/nba-player-models/releases/tag/v0.1.0) · [**COLLECTION NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=courtside-collection)
+
 ### School lab / Ideas that take root.
 
 <a href="https://chefzc-homepage.vercel.app/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — a quiet woodland path. Forest green and morning light introduce the WIS TECH TANK school lab." /></a>
@@ -81,6 +99,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.20** | Opened the 3D glass collection and two model libraries: arenas and players. |
 | **2026.09.20** | Festival Toolkit 0.2: garage, content updates and the Festival Pass version journal. |
 | **2026.09.19** | Published STRIDE for WIS TECH TANK and opened the School Lab collection. |
 | **2026.09.18** | Published Festival Toolkit with its exhibition and build journal. |

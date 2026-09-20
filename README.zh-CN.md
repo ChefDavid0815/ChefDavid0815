@@ -62,6 +62,24 @@
 
 我最喜欢的篮球球星是斯蒂芬·库里，最喜欢的车手是夏尔·勒克莱尔。看 NBA、F1 和勒芒，打篮球、玩 2K、画画和写书法，都是生活里不可少的快乐。
 
+### 建模的作品 / 给热爱，一个新的维度。
+
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center"><img src="assets/arena-models.svg" width="100%" alt="NBA 球馆建模作品 — 蓝金玻璃与建筑图版"></a>
+
+**NBA 球馆建模作品** — 首件收藏：大通中心。
+
+一个独立球馆作品库。大通中心的内景与外景，拥有两只可切换、可拖动旋转的 3D 玻璃盒。完整 Blender 模型、Unreal 可导入的 FBX 与必要材质以免费版本包提供。之后继续加入不同球馆。
+
+[**3D 展柜 ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-chase-center) · [**作品库 ↗**](https://github.com/ChefDavid0815/nba-arena-models) · [**免费下载 ↓**](https://github.com/ChefDavid0815/nba-arena-models/releases/tag/v0.1.0)
+
+<a href="https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head"><img src="assets/player-models.svg" width="100%" alt="NBA 球员建模作品 — 人物收藏与蓝金玻璃"></a>
+
+**NBA 球员建模作品** — 首件收藏：Stephen Curry 脸模。
+
+独立的人物资产作品库，持续收录不同球员。库里脸模基于购入的第三方 MNJ Mod 整理与适配，包含脸部、毛发、眼睛与口腔部件。当前是角色头部原型，尚无完整表情系统。免费下载不改变第三方素材的权利与原有条款。
+
+[**3D 展柜 ↗**](https://chefzc-homepage.vercel.app/models-gallery.html#project-curry-head) · [**作品库 ↗**](https://github.com/ChefDavid0815/nba-player-models) · [**免费下载 ↓**](https://github.com/ChefDavid0815/nba-player-models/releases/tag/v0.1.0) · [**建模手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=courtside-collection)
+
 ### 校园实验室 / 让想法，慢慢生长。
 
 <a href="https://chefzc-homepage.vercel.app/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — 晨光里的森林步道，为 WIS TECH TANK 校园实验室铺开自然的绿色。" /></a>
@@ -91,6 +109,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.20  ──  开放建模展厅：大通中心内外景、库里脸模与两个独立模型作品库。
 2026.09.20  ──  Festival Toolkit 0.2：车辆收藏、内容更新与版本手记。
 2026.09.19  ──  WIS TECH TANK · STRIDE 上线，校园实验室展厅开放。
 2026.09.18  ──  Festival Toolkit 加入作品集，同步四季展柜与制作手记。
