@@ -22,13 +22,13 @@
 
 ### `02` &nbsp; 我的作品
 
-<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.1.1.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
-**Horizon Festival Toolkit 0.1.1** — 每一周，都值得点亮。
+**Horizon Festival Toolkit 0.2.0** — 每一周，都值得点亮。
 
-第四件作品：一个围绕 FH6 季节赛记录、选周修改、备份与恢复的 Windows 工具。S1–S5，共 20 周；中英文界面。浅绿色、淡蓝与粉色，为它做成一张嘉年华通行证。加密存档由第三方在线服务处理；游戏内效果尚未验证。
+四季工坊多了一间车库：647 款车型、本地游戏资源同步、独立内容包，还有每个系列赛自己的真实封面。中英文界面，备份与恢复依旧在手边。薄荷绿、淡蓝与粉色的展柜新增两张版本通行证，记录从 0.1.1 到 0.2 的成长。加密存档使用第三方在线服务；游戏内效果尚未验证。
 
-[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.1.1) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.2.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
 
 <a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
 
@@ -77,7 +77,7 @@
 | 信号 | 正在发生 |
 | :--- | :--- |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
-| **Festival Toolkit 0.1.1** | 季节赛存档工坊，第四件 Windows 作品。 |
+| **Festival Toolkit 0.2.0** | 季节赛与车库，647 款车型、可更新的内容目录。 |
 | **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
 | 🧠 **学习** | 神经网络、AI Agent，以及把想法做出来的能力。 |
 | 🗂️ **Folio 1.1** | [模组手帖](https://github.com/ChefDavid0815/folio-mod-studio) — Windows 安装版与免安装版。 |
@@ -91,6 +91,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.20  ──  Festival Toolkit 0.2：车辆收藏、内容更新与版本手记。
 2026.09.19  ──  WIS TECH TANK · STRIDE 上线，校园实验室展厅开放。
 2026.09.18  ──  Festival Toolkit 加入作品集，同步四季展柜与制作手记。
 2026.09.18  ──  AXIOM · 格物网页版上线：让数据，形成观点。

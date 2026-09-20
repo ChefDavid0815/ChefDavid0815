@@ -13,13 +13,13 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
-<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.1.1.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
-**Horizon Festival Toolkit 0.1.1** — every week, a little brighter.
+**Horizon Festival Toolkit 0.2.0** — every week, a little brighter.
 
-My fourth project: a Windows utility for FH6 seasonal records, selected-week edits, backup and recovery. Five series, twenty weeks, Chinese and English. A mint, blue and pink festival pass gives it a place in the Gallery. Encrypted saves use a third-party online service; in-game effects remain unverified.
+The festival workshop grows a garage: 647 car models, local game-resource sync, independent content packs and each series’ actual cover. Chinese and English, with backups and recovery close at hand. The mint, blue and pink exhibit now keeps a two-edition version journal. Encrypted saves use a third-party online service; in-game effects remain unverified.
 
-[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.1.1) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.2.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
 
 <a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
 
@@ -66,7 +66,7 @@ A school presentation project with nine simulated walking environments, speech a
 | Signal | What's happening |
 | :--- | :--- |
 | **WIS TECH TANK · STRIDE** | [School lab](https://chefzc-homepage.vercel.app/school-gallery.html): nine simulated environments, now on the web. |
-| **Festival Toolkit 0.1.1** | Seasonal save workshop. Project four, for Windows. |
+| **Festival Toolkit 0.2.0** | Playlist + garage, 647 models and updatable content. Windows. |
 | **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
 | **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
 | **Folio 1.1** | [Mod Studio](https://github.com/ChefDavid0815/folio-mod-studio), available as a Windows installer or portable app. |
@@ -81,6 +81,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.20** | Festival Toolkit 0.2: garage, content updates and the Festival Pass version journal. |
 | **2026.09.19** | Published STRIDE for WIS TECH TANK and opened the School Lab collection. |
 | **2026.09.18** | Published Festival Toolkit with its exhibition and build journal. |
 | **2026.09.18** | Published AXIOM 1.0 on the web: scientific plotting, maths and physics. |
