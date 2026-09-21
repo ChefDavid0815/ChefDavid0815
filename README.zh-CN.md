@@ -26,7 +26,7 @@
 
 **ProjectLens 0.1.0 · 项目透镜** — 把线索，放大。
 
-一个 Windows 本地项目健康扫描器。读取代码、配置与文档，查看带文件位置、脱敏证据和建议的静态检查结果；按规则或文件检索，并导出 Markdown 或 JSON。默认本地处理，不调用远程 AI。中文界面、中英双语文档。当前是未签名的桌面 MVP，静态规则不能替代测试和安全审计。
+一个 Windows 本地项目健康扫描器。读取代码、配置与文档，查看带文件位置、脱敏证据和建议的静态检查结果；按规则或文件检索，并导出 Markdown 或 JSON。默认本地处理，不调用远程 AI。中英双语界面与文档，可跟随系统或记住手动选择，扫描提示与导出跟随所选语言。当前是未签名的桌面 MVP，静态规则不能替代测试和安全审计。
 
 [**下载 WINDOWS 版 ↓**](https://github.com/ChefDavid0815/projectlens/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源代码 ↗**](https://github.com/ChefDavid0815/projectlens) &nbsp; / &nbsp; [**光学展柜 ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) &nbsp; / &nbsp; [**制作手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=projectlens)
 
@@ -102,7 +102,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
-| **ProjectLens 0.1.0** | 本地项目健康扫描器、[光学展柜](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens)与新的制作手记。 |
+| **ProjectLens 0.1.0** | 中英双语本地项目健康扫描器、[光学展柜](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens)与新的制作手记。 |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
 | **Festival Toolkit 0.2.0** | 季节赛与车库，647 款车型、可更新的内容目录。 |
 | **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
