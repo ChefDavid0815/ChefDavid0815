@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-projectlens"><img src="assets/projectlens.svg" width="100%" alt="ProjectLens — graphite, mint glass and ice-blue light. A little clarity in the code." /></a>
+
+**ProjectLens 0.1.0 · Local project intelligence** — bring the signals into focus.
+
+A Windows project health scanner for code, configuration and documentation. Explore static findings with file locations, redacted evidence and suggestions; search by rule or file, then export Markdown or JSON. Local by default, with no remote AI. Chinese app UI and bilingual documentation. An unsigned desktop MVP; static heuristics do not replace tests or a security review.
+
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/projectlens/releases/tag/v0.1.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/projectlens) &nbsp; / &nbsp; [**OPTICAL EXHIBITION ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) &nbsp; / &nbsp; [**BUILD NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=projectlens)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
 **Horizon Festival Toolkit 0.2.0** — every week, a little brighter.
@@ -83,6 +91,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **ProjectLens 0.1.0** | Local project-health scanner, [optical exhibition](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) and a new build journal. |
 | **WIS TECH TANK · STRIDE** | [School lab](https://chefzc-homepage.vercel.app/school-gallery.html): nine simulated environments, now on the web. |
 | **Festival Toolkit 0.2.0** | Playlist + garage, 647 models and updatable content. Windows. |
 | **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
@@ -99,6 +108,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.21** | Released ProjectLens 0.1.0: a local project-health scanner, optical exhibit and a new build journal. |
 | **2026.09.20** | Opened the 3D glass collection and two model libraries: arenas and players. |
 | **2026.09.20** | Festival Toolkit 0.2: garage, content updates and the Festival Pass version journal. |
 | **2026.09.19** | Published STRIDE for WIS TECH TANK and opened the School Lab collection. |

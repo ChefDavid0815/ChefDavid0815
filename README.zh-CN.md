@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-projectlens"><img src="assets/projectlens.svg" width="100%" alt="ProjectLens 项目透镜：石墨黑、薄荷玻璃与冰蓝光。把线索，放大。" /></a>
+
+**ProjectLens 0.1.0 · 项目透镜** — 把线索，放大。
+
+一个 Windows 本地项目健康扫描器。读取代码、配置与文档，查看带文件位置、脱敏证据和建议的静态检查结果；按规则或文件检索，并导出 Markdown 或 JSON。默认本地处理，不调用远程 AI。中文界面、中英双语文档。当前是未签名的桌面 MVP，静态规则不能替代测试和安全审计。
+
+[**下载 WINDOWS 版 ↓**](https://github.com/ChefDavid0815/projectlens/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源代码 ↗**](https://github.com/ChefDavid0815/projectlens) &nbsp; / &nbsp; [**光学展柜 ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) &nbsp; / &nbsp; [**制作手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=projectlens)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
 **Horizon Festival Toolkit 0.2.0** — 每一周，都值得点亮。
@@ -94,6 +102,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **ProjectLens 0.1.0** | 本地项目健康扫描器、[光学展柜](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens)与新的制作手记。 |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
 | **Festival Toolkit 0.2.0** | 季节赛与车库，647 款车型、可更新的内容目录。 |
 | **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
@@ -109,6 +118,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.21  ──  ProjectLens 0.1.0：本地项目透镜、光学展柜与新的制作手记。
 2026.09.20  ──  开放建模展厅：大通中心内外景、库里脸模与两个独立模型作品库。
 2026.09.20  ──  Festival Toolkit 0.2：车辆收藏、内容更新与版本手记。
 2026.09.19  ──  WIS TECH TANK · STRIDE 上线，校园实验室展厅开放。
