@@ -30,13 +30,13 @@
 
 [**下载 WINDOWS 版 ↓**](https://github.com/ChefDavid0815/projectlens/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源代码 ↗**](https://github.com/ChefDavid0815/projectlens) &nbsp; / &nbsp; [**光学展柜 ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) &nbsp; / &nbsp; [**制作手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=projectlens)
 
-<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.3.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
-**Horizon Festival Toolkit 0.2.0** — 每一周，都值得点亮。
+**Horizon Festival Toolkit 0.3.0** — 让旅途，完整绽放。
 
-四季工坊多了一间车库：647 款车型、本地游戏资源同步、独立内容包，还有每个系列赛自己的真实封面。中英文界面，备份与恢复依旧在手边。薄荷绿、淡蓝与粉色的展柜新增两张版本通行证，记录从 0.1.1 到 0.2 的成长。加密存档使用第三方在线服务；游戏内效果尚未验证。
+旅程有了自己的手册：38 个分类、2,833 个收藏项目、七色腕带与每日 GitHub 版本提醒。647 车型车库、四季工坊、中英文界面与备份恢复继续保留。薄荷绿、淡蓝与粉色的指南针通行证，收藏第三次出发。腕带持有不等于剧情解锁；加密存档使用第三方服务，游戏内效果尚未验证。
 
-[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.2.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.3.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
 
 <a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
 
@@ -104,7 +104,7 @@
 | :--- | :--- |
 | **ProjectLens 0.1.0** | 中英双语本地项目健康扫描器、[光学展柜](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens)与新的制作手记。 |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
-| **Festival Toolkit 0.2.0** | 季节赛与车库，647 款车型、可更新的内容目录。 |
+| **Festival Toolkit 0.3.0** | 旅程收藏手册、七色腕带、每日版本提醒与 647 车型车库。 |
 | **AXIOM 1.0** | [格物](https://chefzc-axiom.vercel.app) — 科学绘图与数学物理工作台，网页版已上线。 |
 | 🧠 **学习** | 神经网络、AI Agent，以及把想法做出来的能力。 |
 | 🗂️ **Folio 1.1** | [模组手帖](https://github.com/ChefDavid0815/folio-mod-studio) — Windows 安装版与免安装版。 |
@@ -118,6 +118,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.22  ──  Festival Toolkit 0.3：旅程手册、七色腕带与每日更新提醒。
 2026.09.21  ──  ProjectLens 0.1.0：本地项目透镜、光学展柜与新的制作手记。
 2026.09.20  ──  开放建模展厅：大通中心内外景、库里脸模与两个独立模型作品库。
 2026.09.20  ──  Festival Toolkit 0.2：车辆收藏、内容更新与版本手记。

@@ -21,13 +21,13 @@ A Windows project health scanner for code, configuration and documentation. Expl
 
 [**WINDOWS ↓**](https://github.com/ChefDavid0815/projectlens/releases/tag/v0.1.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/projectlens) &nbsp; / &nbsp; [**OPTICAL EXHIBITION ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) &nbsp; / &nbsp; [**BUILD NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=projectlens)
 
-<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.2.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit"><img src="assets/festival-v0.3.0.svg" width="100%" alt="Festival Toolkit — mint green, sky blue and pink. Four seasons, one workshop." /></a>
 
-**Horizon Festival Toolkit 0.2.0** — every week, a little brighter.
+**Horizon Festival Toolkit 0.3.0** — let every journey bloom.
 
-The festival workshop grows a garage: 647 car models, local game-resource sync, independent content packs and each series’ actual cover. Chinese and English, with backups and recovery close at hand. The mint, blue and pink exhibit now keeps a two-edition version journal. Encrypted saves use a third-party online service; in-game effects remain unverified.
+The journey gets a journal: 38 categories and 2,833 entries, seven wristband colours and daily GitHub release checks. The 647-model garage, seasonal workshop, Chinese/English interface and backups continue. A mint, blue and pink compass pass celebrates the third edition. Wristband ownership is distinct from story access; encrypted saves use a third-party service and in-game effects remain unverified.
 
-[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.2.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/horizon-festival-toolkit/releases/tag/v0.3.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/horizon-festival-toolkit) &nbsp; / &nbsp; [**GALLERY ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-festival-toolkit) &nbsp; / &nbsp; [**VERSION JOURNAL ↗**](https://chefzc-homepage.vercel.app/gallery.html#festival-history) &nbsp; / &nbsp; [**POST ↗**](https://chefzc-homepage.vercel.app/post.html?article=festival-toolkit)
 
 <a href="https://chefzc-axiom.vercel.app"><img src="assets/axiom.svg" width="100%" alt="AXIOM — a scientific plotting studio in lime, cobalt and cool white." /></a>
 
@@ -93,7 +93,7 @@ A school presentation project with nine simulated walking environments, speech a
 | :--- | :--- |
 | **ProjectLens 0.1.0** | Bilingual local project-health scanner, [optical exhibition](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) and a new build journal. |
 | **WIS TECH TANK · STRIDE** | [School lab](https://chefzc-homepage.vercel.app/school-gallery.html): nine simulated environments, now on the web. |
-| **Festival Toolkit 0.2.0** | Playlist + garage, 647 models and updatable content. Windows. |
+| **Festival Toolkit 0.3.0** | Journey journals, seven wristbands, daily updates and the 647-model garage. Windows. |
 | **AXIOM 1.0** | [Scientific plotting studio](https://chefzc-axiom.vercel.app), now available on the web. |
 | **Learning** | Neural networks, AI agents, and how to turn an idea into something real. |
 | **Folio 1.1** | [Mod Studio](https://github.com/ChefDavid0815/folio-mod-studio), available as a Windows installer or portable app. |
@@ -108,6 +108,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.22** | Festival Toolkit 0.3: journey journals, seven wristbands and daily release checks. |
 | **2026.09.21** | Released ProjectLens 0.1.0: a local project-health scanner, optical exhibit and a new build journal. |
 | **2026.09.20** | Opened the 3D glass collection and two model libraries: arenas and players. |
 | **2026.09.20** | Festival Toolkit 0.2: garage, content updates and the Festival Pass version journal. |
