@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-chroma"><img src="assets/chroma.svg" width="100%" alt="CHROMA 彩谱：电光蓝、亮黄、信号红、银色仪器与千禧年爆炸星形。" /></a>
+
+**CHROMA 0.1.0 · 彩谱** — every bit, in color.
+
+一座 Windows 本地硬件观测站。极简与专业模式、CPU / GPU、线程与传感器、十分钟趋势、会话导出和桌面置顶小窗。电光蓝、亮黄、信号红与银色金属，把千禧年的未来感搬进桌面。中英双语，读数留在本机；缺失数据保持为空。0.1.0 是未签名的早期版本，真实游戏内 FPS 与更多硬件仍待验证。
+
+[**WINDOWS 下载 ↓**](https://github.com/ChefDavid0815/chroma-monitor/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源代码 ↗**](https://github.com/ChefDavid0815/chroma-monitor) &nbsp; / &nbsp; [**千禧年展柜 ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-chroma) &nbsp; / &nbsp; [**信号手记 ↗**](https://chefzc-homepage.vercel.app/post.html?article=chroma)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-projectlens"><img src="assets/projectlens.svg" width="100%" alt="ProjectLens 项目透镜：石墨黑、薄荷玻璃与冰蓝光。把线索，放大。" /></a>
 
 **ProjectLens 0.1.0 · 项目透镜** — 把线索，放大。
@@ -102,6 +110,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **CHROMA 0.1.0** | 本地硬件观测站、[千禧年信号展柜](https://chefzc-homepage.vercel.app/gallery.html#project-chroma)与双语制作手记。 |
 | **ProjectLens 0.1.0** | 中英双语本地项目健康扫描器、[光学展柜](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens)与新的制作手记。 |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc-homepage.vercel.app/school-gallery.html)开放，九种模拟环境已上线。 |
 | **Festival Toolkit 0.3.0** | 旅程收藏手册、七色腕带、每日版本提醒与 647 车型车库。 |
@@ -118,6 +127,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.22  ──  CHROMA 0.1.0：本地硬件观测站、千禧年信号展柜与双语随笔。
 2026.09.22  ──  Festival Toolkit 0.3：旅程手册、七色腕带与每日更新提醒。
 2026.09.21  ──  ProjectLens 0.1.0：本地项目透镜、光学展柜与新的制作手记。
 2026.09.20  ──  开放建模展厅：大通中心内外景、库里脸模与两个独立模型作品库。

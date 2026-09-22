@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc-homepage.vercel.app/gallery.html#project-chroma"><img src="assets/chroma.svg" width="100%" alt="CHROMA: electric blue, yellow, signal red, chrome instruments and Y2K burst stars." /></a>
+
+**CHROMA 0.1.0 · Signal Remix** — every bit, in color.
+
+A local Windows hardware observatory. Simple and PRO modes, CPU / GPU, threads and sensors, ten-minute trends, session exports and an always-on-top desktop mini view. Electric blue, yellow, signal red and chrome bring a Y2K future onto the desktop. Chinese / English, local readings, and empty values when a sensor is unavailable. Unsigned 0.1.0 early access; actual in-game FPS and broader hardware coverage remain unverified.
+
+[**WINDOWS ↓**](https://github.com/ChefDavid0815/chroma-monitor/releases/tag/v0.1.0) &nbsp; / &nbsp; [**SOURCE ↗**](https://github.com/ChefDavid0815/chroma-monitor) &nbsp; / &nbsp; [**Y2K EXHIBITION ↗**](https://chefzc-homepage.vercel.app/gallery.html#project-chroma) &nbsp; / &nbsp; [**SIGNAL NOTES ↗**](https://chefzc-homepage.vercel.app/post.html?article=chroma)
+
 <a href="https://chefzc-homepage.vercel.app/gallery.html#project-projectlens"><img src="assets/projectlens.svg" width="100%" alt="ProjectLens — graphite, mint glass and ice-blue light. A little clarity in the code." /></a>
 
 **ProjectLens 0.1.0 · Local project intelligence** — bring the signals into focus.
@@ -91,6 +99,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **CHROMA 0.1.0** | Local hardware observatory, [Y2K signal exhibition](https://chefzc-homepage.vercel.app/gallery.html#project-chroma) and bilingual build notes. |
 | **ProjectLens 0.1.0** | Bilingual local project-health scanner, [optical exhibition](https://chefzc-homepage.vercel.app/gallery.html#project-projectlens) and a new build journal. |
 | **WIS TECH TANK · STRIDE** | [School lab](https://chefzc-homepage.vercel.app/school-gallery.html): nine simulated environments, now on the web. |
 | **Festival Toolkit 0.3.0** | Journey journals, seven wristbands, daily updates and the 647-model garage. Windows. |
@@ -108,6 +117,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.22** | Released CHROMA 0.1.0: a local hardware observatory, Y2K exhibition and bilingual journal. |
 | **2026.09.22** | Festival Toolkit 0.3: journey journals, seven wristbands and daily release checks. |
 | **2026.09.21** | Released ProjectLens 0.1.0: a local project-health scanner, optical exhibit and a new build journal. |
 | **2026.09.20** | Opened the 3D glass collection and two model libraries: arenas and players. |
