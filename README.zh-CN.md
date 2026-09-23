@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.1.0.png" width="100%" alt="Roseraie 0.1.0：玫瑰纸色与薰衣草紫的洛可可 Agent 桌面工坊真实界面" /></a>
+
+**ROSERAIE 0.1.0 · 蔷薇工坊** — 让灵感，在此盛放。/ A little grace in every great idea.
+
+一间给想法落地的 Windows 本地 Agent 工坊：工具调用、文件与命令确认、检查点、工作手记，以及「构思—质询—定稿」三阶段织思。玫瑰纸色的洛可可界面支持中英文。第一版通过 12 项测试、生产构建和 Windows 基本检查，也完成一次 Codex CLI 受控修复；其他服务与环境仍待测试，Windows 安装包尚未签名。
+
+[**下载 WINDOWS 0.1.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**洛可可展柜 ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**工坊手记 ↗**](https://chefzc.dev/post.html?article=roseraie)
+
 <a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3：文艺复兴壁画下的知识宇宙" /></a>
 
 **ATLAS 0.3 · IB 知识观星台** — 在思想之上，仰望无垠。/ Above every idea, a wider universe.

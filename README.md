@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.1.0.png" width="100%" alt="Roseraie 0.1.0 — the actual rose-and-lavender Rococo agent workbench, with a quiet companion and an invitation to begin." /></a>
+
+**ROSERAIE 0.1.0 · 蔷薇工坊** — a little grace in every great idea. / 让灵感，在此盛放。
+
+A local-first Windows agent atelier for ideas that become work: tool calls, file and command approvals, checkpoints, a journal and the three-pass Weave. Its rose-paper Rococo interface supports Chinese and English. The first edition passed 12 tests, a production build and basic Windows checks, including a controlled Codex CLI repair. Other providers and environments need more testing; the Windows packages are unsigned.
+
+[**WINDOWS 0.1.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.1.0) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**ROCOCO EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**ATELIER NOTES ↗**](https://chefzc.dev/post.html?article=roseraie)
+
 <a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3 — a Renaissance fresco beneath a living philosophical cosmos" /></a>
 
 **ATLAS 0.3 · Diploma Observatory** — above every idea, a wider universe. / 在思想之上，仰望无垠。
