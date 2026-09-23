@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3：文艺复兴壁画下的知识宇宙" /></a>
+
+**ATLAS 0.3 · IB 知识观星台** — 在思想之上，仰望无垠。/ Above every idea, a wider universe.
+
+把学科之间的联系画成一片可以漫游的星空：784 个连通节点、1,059 条关联，原有 241 个主题全部有原创笔记。文艺复兴壁画、深蓝夜空、缓缓转动的轨道与手稿纸页，构成它自己的阅读空间。中文标题改用朱雀仿宋，正文采用霞鹜文楷 GB。网页和未签名的 Windows 版本都可体验；这是独立学习地图，并非官方或完整的 IB 考纲。
+
+[**进入 ATLAS ↗**](https://chefzc.dev/atlas/) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/atlas-diploma-observatory) &nbsp; / &nbsp; [**文艺复兴展柜 ↗**](https://chefzc.dev/gallery.html#project-atlas) &nbsp; / &nbsp; [**观星手记 ↗**](https://chefzc.dev/post.html?article=atlas) &nbsp; / &nbsp; [**下载 0.3 ↓**](https://github.com/ChefDavid0815/atlas-diploma-observatory/releases/tag/v0.3.0)
+
 <a href="https://chefzc.dev/gallery.html#project-chroma"><img src="assets/chroma.svg" width="100%" alt="CHROMA 彩谱：电光蓝、亮黄、信号红、银色仪器与千禧年爆炸星形。" /></a>
 
 **CHROMA 0.1.0 · 彩谱** — every bit, in color.
@@ -110,6 +118,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **ATLAS 0.3** | [IB 知识观星台](https://chefzc.dev/atlas/)上线，文艺复兴星空、双语笔记与新[展柜](https://chefzc.dev/gallery.html#project-atlas)开放。 |
 | **CHROMA 0.1.0** | 本地硬件观测站、[千禧年信号展柜](https://chefzc.dev/gallery.html#project-chroma)与双语制作手记。 |
 | **ProjectLens 0.1.0** | 中英双语本地项目健康扫描器、[光学展柜](https://chefzc.dev/gallery.html#project-projectlens)与新的制作手记。 |
 | **WIS TECH TANK · STRIDE** | [校园实验室](https://chefzc.dev/school-gallery.html)开放，九种模拟环境已上线。 |
@@ -127,6 +136,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.09.23  ──  发布 Atlas 0.3：知识观星台、文艺复兴展柜与中英双语观星手记。
 2026.09.22  ──  CHROMA 0.1.0：本地硬件观测站、千禧年信号展柜与双语随笔。
 2026.09.22  ──  Festival Toolkit 0.3：旅程手册、七色腕带与每日更新提醒。
 2026.09.21  ──  ProjectLens 0.1.0：本地项目透镜、光学展柜与新的制作手记。

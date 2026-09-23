@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3 — a Renaissance fresco beneath a living philosophical cosmos" /></a>
+
+**ATLAS 0.3 · Diploma Observatory** — above every idea, a wider universe. / 在思想之上，仰望无垠。
+
+A bilingual IB learning observatory: 784 connected nodes, 1,059 relationships and original notes for all 241 existing topics. Renaissance fresco, lapis sky, moving orbits and manuscript pages form a place to explore connections across subjects. The Chinese type now pairs Zhuque Fangsong with LXGW WenKai GB. Web and unsigned Windows editions are available; this is an independent study map, not an official or exhaustive IB syllabus.
+
+[**OPEN ATLAS ↗**](https://chefzc.dev/atlas/) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/atlas-diploma-observatory) &nbsp; / &nbsp; [**RENAISSANCE EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-atlas) &nbsp; / &nbsp; [**FIELD NOTES ↗**](https://chefzc.dev/post.html?article=atlas) &nbsp; / &nbsp; [**GET 0.3 ↓**](https://github.com/ChefDavid0815/atlas-diploma-observatory/releases/tag/v0.3.0)
+
 <a href="https://chefzc.dev/gallery.html#project-chroma"><img src="assets/chroma.svg" width="100%" alt="CHROMA: electric blue, yellow, signal red, chrome instruments and Y2K burst stars." /></a>
 
 **CHROMA 0.1.0 · Signal Remix** — every bit, in color.
@@ -99,6 +107,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **ATLAS 0.3** | [IB knowledge observatory](https://chefzc.dev/atlas/) with a Renaissance cosmos, bilingual study notes and a new [exhibition](https://chefzc.dev/gallery.html#project-atlas). |
 | **CHROMA 0.1.0** | Local hardware observatory, [Y2K signal exhibition](https://chefzc.dev/gallery.html#project-chroma) and bilingual build notes. |
 | **ProjectLens 0.1.0** | Bilingual local project-health scanner, [optical exhibition](https://chefzc.dev/gallery.html#project-projectlens) and a new build journal. |
 | **WIS TECH TANK · STRIDE** | [School lab](https://chefzc.dev/school-gallery.html): nine simulated environments, now on the web. |
@@ -117,6 +126,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.23** | Released Atlas 0.3, opened its Renaissance observatory, gallery exhibit and bilingual field notes. |
 | **2026.09.22** | Released CHROMA 0.1.0: a local hardware observatory, Y2K exhibition and bilingual journal. |
 | **2026.09.22** | Festival Toolkit 0.3: journey journals, seven wristbands and daily release checks. |
 | **2026.09.21** | Released ProjectLens 0.1.0: a local project-health scanner, optical exhibit and a new build journal. |
