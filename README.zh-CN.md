@@ -22,15 +22,15 @@
 
 ### `02` &nbsp; 我的作品
 
-<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.1.0.png" width="100%" alt="Roseraie 0.1.0：玫瑰纸色与薰衣草紫的洛可可 Agent 桌面工坊真实界面" /></a>
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.2.0.png" width="100%" alt="Roseraie 0.2.0：紫罗兰瓷釉与植物画构成的洛可可 Agent 桌面工坊真实界面" /></a>
 
-**ROSERAIE 0.1.0 · 蔷薇工坊** — 让灵感，在此盛放。/ A little grace in every great idea.
+**ROSERAIE 0.2.0 · 蔷薇工坊** — 让灵感，在此盛放。/ A little grace in every great idea.
 
-一间给想法落地的 Windows 本地 Agent 工坊：工具调用、文件与命令确认、检查点、工作手记，以及「构思—质询—定稿」三阶段织思。玫瑰纸色的洛可可界面支持中英文。第一版通过 12 项测试、生产构建和 Windows 基本检查，也完成一次 Codex CLI 受控修复；其他服务与环境仍待测试，Windows 安装包尚未签名。
+一间给想法落地的 Windows 本地 Agent 工坊：工具调用、文件与命令确认、检查点、工作手记，以及「执行—只读质询—定稿」三阶段织思。0.2 版改用紫罗兰瓷釉、银丝与植物画，新增按任务选择模型与推理强度、独立的织思审阅设置和更细致的窄窗布局。中英双语；本版通过 13 项测试、生产构建及打包后的 Windows 检查，并取得真实 Codex CLI 回答。其他服务取决于账号权限，Windows 包未签名。
 
-[**下载 WINDOWS 0.1.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.1.0) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**洛可可展柜 ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**工坊手记 ↗**](https://chefzc.dev/post.html?article=roseraie)
+[**下载 WINDOWS 0.2.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**洛可可展柜 ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**版本手记 ↗**](https://chefzc.dev/gallery.html#roseraie-history)
 
-<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3：文艺复兴壁画下的知识宇宙" /></a>
+<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-poster-v03.svg" width="100%" alt="Atlas 0.3：带有壁画、金色星轨、中英标题与真实项目数据的文艺复兴观星台海报" /></a>
 
 **ATLAS 0.3 · IB 知识观星台** — 在思想之上，仰望无垠。/ Above every idea, a wider universe.
 
@@ -126,6 +126,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **ROSERAIE 0.2.0** | [紫罗兰洛可可工坊](https://chefzc.dev/gallery.html#project-roseraie)加入任务级模型与推理设置；[Windows 新版](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0)已发布。 |
 | **ATLAS 0.3** | [IB 知识观星台](https://chefzc.dev/atlas/)上线，文艺复兴星空、双语笔记与新[展柜](https://chefzc.dev/gallery.html#project-atlas)开放。 |
 | **CHROMA 0.1.0** | 本地硬件观测站、[千禧年信号展柜](https://chefzc.dev/gallery.html#project-chroma)与双语制作手记。 |
 | **ProjectLens 0.1.0** | 中英双语本地项目健康扫描器、[光学展柜](https://chefzc.dev/gallery.html#project-projectlens)与新的制作手记。 |

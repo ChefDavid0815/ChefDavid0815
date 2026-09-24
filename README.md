@@ -13,15 +13,15 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
-<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.1.0.png" width="100%" alt="Roseraie 0.1.0 — the actual rose-and-lavender Rococo agent workbench, with a quiet companion and an invitation to begin." /></a>
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.2.0.png" width="100%" alt="Roseraie 0.2.0 — the violet porcelain Rococo agent atelier with botanical art and model selection." /></a>
 
-**ROSERAIE 0.1.0 · 蔷薇工坊** — a little grace in every great idea. / 让灵感，在此盛放。
+**ROSERAIE 0.2.0 · 蔷薇工坊** — a little grace in every great idea. / 让灵感，在此盛放。
 
-A local-first Windows agent atelier for ideas that become work: tool calls, file and command approvals, checkpoints, a journal and the three-pass Weave. Its rose-paper Rococo interface supports Chinese and English. The first edition passed 12 tests, a production build and basic Windows checks, including a controlled Codex CLI repair. Other providers and environments need more testing; the Windows packages are unsigned.
+A local-first Windows agent atelier for ideas that become work: tool calls, file and command approvals, checkpoints, a journal and the three-pass Weave. The 0.2 violet porcelain edition adds task-level model and reasoning choices, separate Weave reviewer settings, botanical art and a more considered compact layout. It supports Chinese and English; the 0.2 build passed 13 tests, production build and packaged Windows checks, including real Codex CLI responses. Other providers still depend on account access; Windows packages are unsigned.
 
-[**WINDOWS 0.1.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.1.0) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**ROCOCO EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**ATELIER NOTES ↗**](https://chefzc.dev/post.html?article=roseraie)
+[**WINDOWS 0.2.0 ↓**](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/roseraie-agent) &nbsp; / &nbsp; [**ROCOCO EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-roseraie) &nbsp; / &nbsp; [**EDITION JOURNAL ↗**](https://chefzc.dev/gallery.html#roseraie-history)
 
-<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-fresco-03.webp" width="100%" alt="Atlas 0.3 — a Renaissance fresco beneath a living philosophical cosmos" /></a>
+<a href="https://chefzc.dev/atlas/"><img src="assets/atlas-poster-v03.svg" width="100%" alt="Atlas 0.3 — a Renaissance observatory poster with fresco, gilt orbits, bilingual title and project figures" /></a>
 
 **ATLAS 0.3 · Diploma Observatory** — above every idea, a wider universe. / 在思想之上，仰望无垠。
 
@@ -115,6 +115,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **ROSERAIE 0.2.0** | The [violet Rococo atelier](https://chefzc.dev/gallery.html#project-roseraie) now offers task-level model and reasoning choices; [Windows release](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0). |
 | **ATLAS 0.3** | [IB knowledge observatory](https://chefzc.dev/atlas/) with a Renaissance cosmos, bilingual study notes and a new [exhibition](https://chefzc.dev/gallery.html#project-atlas). |
 | **CHROMA 0.1.0** | Local hardware observatory, [Y2K signal exhibition](https://chefzc.dev/gallery.html#project-chroma) and bilingual build notes. |
 | **ProjectLens 0.1.0** | Bilingual local project-health scanner, [optical exhibition](https://chefzc.dev/gallery.html#project-projectlens) and a new build journal. |
