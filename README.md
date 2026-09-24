@@ -135,6 +135,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.09.24** | Released Roseraie 0.2.0: a violet Rococo atelier, a three-lane Weave journal and a new exhibition edition. |
 | **2026.09.23** | Released Atlas 0.3, opened its Renaissance observatory, gallery exhibit and bilingual field notes. |
 | **2026.09.22** | Released CHROMA 0.1.0: a local hardware observatory, Y2K exhibition and bilingual journal. |
 | **2026.09.22** | Festival Toolkit 0.3: journey journals, seven wristbands and daily release checks. |
