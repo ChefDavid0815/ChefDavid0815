@@ -13,7 +13,7 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
-<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.2.0.png" width="100%" alt="Roseraie 0.2.0 — the violet porcelain Rococo agent atelier with botanical art and model selection." /></a>
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-poster-v02.svg" width="100%" alt="Roseraie 0.2 cover: violet porcelain, botanical roses, silver filigree and bilingual Rococo atelier lettering." /></a>
 
 **ROSERAIE 0.2.0 · 蔷薇工坊** — a little grace in every great idea. / 让灵感，在此盛放。
 

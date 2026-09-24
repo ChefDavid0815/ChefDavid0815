@@ -22,7 +22,7 @@
 
 ### `02` &nbsp; 我的作品
 
-<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-0.2.0.png" width="100%" alt="Roseraie 0.2.0：紫罗兰瓷釉与植物画构成的洛可可 Agent 桌面工坊真实界面" /></a>
+<a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-poster-v02.svg" width="100%" alt="Roseraie 0.2 蔷薇工坊封面：紫罗兰瓷釉、植物画、银色花饰与中英双语洛可可标题" /></a>
 
 **ROSERAIE 0.2.0 · 蔷薇工坊** — 让灵感，在此盛放。/ A little grace in every great idea.
 
