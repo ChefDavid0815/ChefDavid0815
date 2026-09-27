@@ -13,6 +13,14 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE: a charcoal and signal-red 2026 Formula One visual archive poster. The race ends. The frame stays." /></a>
+
+**AFTERIMAGE / 2026 · Formula One visual archive** — the season moves fast. The images stay.
+
+An independent fan-built archive connecting the 2026 Grand Prix calendar with circuits, sessions, teams, drivers and credited photography. The public season is open to explore; members can upload race-day photos, save frames, build collections and record attendance. Results and schedules are a dated snapshot, not live timing. Unaffiliated with Formula 1.
+
+[**EXPLORE AFTERIMAGE ↗**](https://afterimage.chefzc.dev/)
+
 <a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-poster-v02.svg" width="100%" alt="Roseraie 0.2 cover: violet porcelain, botanical roses, silver filigree and bilingual Rococo atelier lettering." /></a>
 
 **ROSERAIE 0.2.0 · 蔷薇工坊** — a little grace in every great idea. / 让灵感，在此盛放。

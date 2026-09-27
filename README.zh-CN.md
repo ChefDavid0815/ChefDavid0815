@@ -22,6 +22,14 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE：深灰与信号红的 2026 F1 影像档案海报。比赛结束，画面留下。" /></a>
+
+**AFTERIMAGE / 2026 · F1 影像档案** — 赛季飞驰而过，影像留下。
+
+一座独立制作的车迷档案，串起 2026 年大奖赛、赛道、场次、车队、车手与注明摄影者的照片。公开内容无需登录即可浏览；注册后可以上传自己的赛场照片、收藏画面、整理合集并记录到场经历。赛果与赛程是标注日期的资料快照，并非实时计时或实时成绩服务；本站与 Formula 1 无关联。
+
+[**进入 AFTERIMAGE ↗**](https://afterimage.chefzc.dev/)
+
 <a href="https://chefzc.dev/gallery.html#project-roseraie"><img src="assets/roseraie-poster-v02.svg" width="100%" alt="Roseraie 0.2 蔷薇工坊封面：紫罗兰瓷釉、植物画、银色花饰与中英双语洛可可标题" /></a>
 
 **ROSERAIE 0.2.0 · 蔷薇工坊** — 让灵感，在此盛放。/ A little grace in every great idea.
