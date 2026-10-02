@@ -13,6 +13,16 @@ I'm drawn to distant places and the beauty of the world, but also to the good th
 
 ### `02` &nbsp; Things I made.
 
+<a href="https://chefzc.dev/aer.html"><img src="https://chefzc.dev/assets/projects/aer/cover-v11.png" width="100%" alt="AER 1.1 — colourless optical glass, real airline tails and a personal flight workspace." /></a>
+
+**AER 1.1 · Flight, thoughtfully** — a little closer to your kind of journey.
+
+A flight exploration and personalised recommendation product shaped by clear optical glass, dawn light and real airline tails. Search, filter and compare journeys, discover a traveller constellation and understand why a flight fits. The public web experience keeps personal profiles and saved choices behind sign-in. A separate Windows workspace adds persistent navigation, five search workspaces, a journey inspector, keyboard commands, local profiles and offline demo search. Flights and fares are demonstrative; no ticket or reservation is created. Application source and Windows installers are kept off GitHub.
+
+[**EXPLORE AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**OPTICAL GLASS EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 EDITION JOURNAL ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
+
+
+
 <a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE: a charcoal and signal-red 2026 Formula One visual archive poster. The race ends. The frame stays." /></a>
 
 **AFTERIMAGE / 2026 · Formula One visual archive** — the season moves fast. The images stay.
