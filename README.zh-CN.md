@@ -22,6 +22,16 @@
 
 ### `02` &nbsp; 我的作品
 
+<a href="https://chefzc.dev/aer.html"><img src="https://chefzc.dev/assets/projects/aer/cover-v11.png" width="100%" alt="AER 1.1：无色光学玻璃、真实航司尾翼与个人航班工作区。" /></a>
+
+**AER 1.1 · Flight, thoughtfully** — 让下一程，更像你。
+
+一款从晨光、舷窗与真实航司尾翼生长出来的航班探索与个性化推荐产品。搜索、筛选与比较旅程，建立旅人星图，也看清推荐背后的理由。网页版可以公开探索，个人档案与已选行程由登录保护；独立 Windows 版本重新安排固定导航、五个搜索工作区、常驻旅程详情、快捷键、本机档案与离线演示搜索。航班与票价为演示数据，不创建预订或机票。应用源码和 Windows 安装包不上传 GitHub。
+
+[**进入 AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**光学玻璃展柜 ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 版本手记 ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
+
+
+
 <a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE：深灰与信号红的 2026 F1 影像档案海报。比赛结束，画面留下。" /></a>
 
 **AFTERIMAGE / 2026 · F1 影像档案** — 赛季飞驰而过，影像留下。
