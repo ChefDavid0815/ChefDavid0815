@@ -146,7 +146,7 @@
 
 </details>
 
-[**进入 NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**生长档案展柜 ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**植物手记 ↗**](https://chefzc.dev/post.html?article=nabat)
+[**WINDOWS X64 下载 ↓**](https://github.com/ChefDavid0815/nabat-injaz/releases/tag/v1.1.0) &nbsp; / &nbsp; [**进入 NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**生长档案展柜 ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**植物手记 ↗**](https://chefzc.dev/post.html?article=nabat)
 
 <a href="https://chefzc.dev/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — 晨光里的森林步道，为 WIS TECH TANK 校园实验室铺开自然的绿色。" /></a>
 

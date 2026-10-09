@@ -135,7 +135,7 @@ Actual rendered XAML content, excluding the operating system window frame.
 
 </details>
 
-[**OPEN NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**LIVING EXHIBITION ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**FIELD NOTES ↗**](https://chefzc.dev/post.html?article=nabat)
+[**WINDOWS X64 ↓**](https://github.com/ChefDavid0815/nabat-injaz/releases/tag/v1.1.0) &nbsp; / &nbsp; [**OPEN NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**LIVING EXHIBITION ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**FIELD NOTES ↗**](https://chefzc.dev/post.html?article=nabat)
 
 <a href="https://chefzc.dev/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — a quiet woodland path. Forest green and morning light introduce the WIS TECH TANK school lab." /></a>
 
