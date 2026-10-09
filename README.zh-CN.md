@@ -132,6 +132,22 @@
 
 ### 校园实验室 / 让想法，慢慢生长。
 
+<a href="https://chefzc.dev/school-gallery.html#project-nabat"><img src="assets/nabat.svg" width="100%" alt="NABAT 1.1：我的 INJAZ 商赛作品，象牙白与植物绿的生长档案。" /></a>
+
+**NABAT 1.1 · 我的 INJAZ 商赛作品** — 让每一株，都被记得。
+
+一枚稳定的 NFC / QR 身份，连接植物的照片、观察与照护历史。移动端留给现场，原生 Windows 工作台负责任务、目录、地点、标签与影像对照；同一份记录从一株植物，继续走向一座空间。象牙白、植物绿与编辑式字形，给每一次小小的照护留一个长期的家。演示植物与信号为合成样例，物理 NFC 写入与可信签名安装仍待验证。
+
+<details><summary><b>原生软件展示窗 / Inside the native workspace</b></summary>
+
+<img src="assets/nabat-native.png" width="100%" alt="NABAT 1.1 原生 WinUI 照护工作台的实际界面，使用 NABAT Demo Hotel 合成工作区。" />
+
+真实 XAML 渲染内容，不包含操作系统窗口框。
+
+</details>
+
+[**进入 NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**源码 · 中文 / EN ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**生长档案展柜 ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**植物手记 ↗**](https://chefzc.dev/post.html?article=nabat)
+
 <a href="https://chefzc.dev/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — 晨光里的森林步道，为 WIS TECH TANK 校园实验室铺开自然的绿色。" /></a>
 
 **STRIDE · WIS TECH TANK 0.2.0** — 感知多一点，下一步更从容。
@@ -144,6 +160,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **NABAT 1.1 / INJAZ** | 我的 [INJAZ 商赛作品](https://github.com/ChefDavid0815/nabat-injaz)，加入[生长档案展柜](https://chefzc.dev/school-gallery.html#project-nabat)。 |
 | **ROSERAIE 0.2.0** | [紫罗兰洛可可工坊](https://chefzc.dev/gallery.html#project-roseraie)加入任务级模型与推理设置；[Windows 新版](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0)已发布。 |
 | **ATLAS 0.3** | [IB 知识观星台](https://chefzc.dev/atlas/)上线，文艺复兴星空、双语笔记与新[展柜](https://chefzc.dev/gallery.html#project-atlas)开放。 |
 | **CHROMA 0.1.0** | 本地硬件观测站、[千禧年信号展柜](https://chefzc.dev/gallery.html#project-chroma)与双语制作手记。 |
@@ -163,6 +180,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.10.09  ──  INJAZ 商赛作品 NABAT 加入校园实验室，配套原生软件展示窗与植物手记。
 2026.09.24  ──  发布蔷薇工坊 Roseraie 0.2.0：紫罗兰洛可可工坊、三线织思手账与新版展柜。
 2026.09.23  ──  发布 Atlas 0.3：知识观星台、文艺复兴展柜与中英双语观星手记。
 2026.09.22  ──  CHROMA 0.1.0：本地硬件观测站、千禧年信号展柜与双语随笔。

@@ -121,6 +121,22 @@ A cobalt-and-hot-pink portrait collection with room for more players. The Curry 
 
 ### School lab / Ideas that take root.
 
+<a href="https://chefzc.dev/school-gallery.html#project-nabat"><img src="assets/nabat.svg" width="100%" alt="NABAT 1.1 — my INJAZ business competition work, in ivory and botanical green." /></a>
+
+**NABAT 1.1 · My INJAZ business competition work** — every plant, known.
+
+A stable NFC / QR identity connects plant photographs, observations and care history. Mobile field care and a native Windows operations workspace carry the same record into tasks, plant exploration, locations, labels and comparison. Ivory, botanical green and editorial type give each little act of care a lasting home. Demonstration plants and signals are synthetic; physical NFC writing and trusted signed installation remain unverified.
+
+<details><summary><b>Inside the native workspace / 原生软件展示窗</b></summary>
+
+<img src="assets/nabat-native.png" width="100%" alt="Actual NABAT 1.1 native WinUI Operations Home with the synthetic NABAT Demo Hotel workspace." />
+
+Actual rendered XAML content, excluding the operating system window frame.
+
+</details>
+
+[**OPEN NABAT ↗**](https://nabat-injaz.vercel.app/) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/nabat-injaz) &nbsp; / &nbsp; [**LIVING EXHIBITION ↗**](https://chefzc.dev/school-gallery.html#project-nabat) &nbsp; / &nbsp; [**FIELD NOTES ↗**](https://chefzc.dev/post.html?article=nabat)
+
 <a href="https://chefzc.dev/school-gallery.html"><img src="assets/wis-cover-v0.2.webp" width="100%" alt="STRIDE — a quiet woodland path. Forest green and morning light introduce the WIS TECH TANK school lab." /></a>
 
 **STRIDE · WIS TECH TANK 0.2.0** — a little awareness, a better next step.
@@ -133,6 +149,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **NABAT 1.1 / INJAZ** | My [business competition work](https://github.com/ChefDavid0815/nabat-injaz), with a [living school exhibit](https://chefzc.dev/school-gallery.html#project-nabat). |
 | **ROSERAIE 0.2.0** | The [violet Rococo atelier](https://chefzc.dev/gallery.html#project-roseraie) now offers task-level model and reasoning choices; [Windows release](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0). |
 | **ATLAS 0.3** | [IB knowledge observatory](https://chefzc.dev/atlas/) with a Renaissance cosmos, bilingual study notes and a new [exhibition](https://chefzc.dev/gallery.html#project-atlas). |
 | **CHROMA 0.1.0** | Local hardware observatory, [Y2K signal exhibition](https://chefzc.dev/gallery.html#project-chroma) and bilingual build notes. |
@@ -153,6 +170,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.10.09** | Added NABAT, my INJAZ competition work, with a botanical exhibit, native software window and field notes. |
 | **2026.09.24** | Released Roseraie 0.2.0: a violet Rococo atelier, a three-lane Weave journal and a new exhibition edition. |
 | **2026.09.23** | Released Atlas 0.3, opened its Renaissance observatory, gallery exhibit and bilingual field notes. |
 | **2026.09.22** | Released CHROMA 0.1.0: a local hardware observatory, Y2K exhibition and bilingual journal. |
