@@ -30,6 +30,14 @@
 
 [**进入 AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**光学玻璃展柜 ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 版本手记 ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
 
+<a href="https://github.com/ChefDavid0815/worktree-rescue"><img src="assets/worktree-rescue.png" width="100%" alt="Worktree Rescue 1.0 实际窗口：四个代理工作树的记录仪，被删除的工作树被标记为存在未捕获的工作。" /></a>
+
+**WORKTREE RESCUE 1.0 · AI 辅助开发的“黑匣子”** — 代理负责构建，我们负责保全。
+
+一款本地优先的 Windows 安全工具，守护 Claude Code、Codex 等代理所使用的 Git 工作树。它依据证据诊断缺失或被移动的工作树，为未提交的工作保存独立、经 SHA-256 校验的快照，在每个工作树的记录仪上记下每一次快照与 Git 事件，并把文件恢复到独立文件夹，全程不触碰仓库。Rust 核心、Tauri 2 与 React，中英双语。49 项 Rust 测试在真实的临时仓库上运行，其中包括证明监控与恢复不会改变工作区、索引与引用的逐字节比对。安装包尚未签名；它只能找回自己捕获过或 Git 仍保留的内容。
+
+[**WINDOWS 1.0.0 ↓**](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0) &nbsp; / &nbsp; [**源码 · EN / 中文 ↗**](https://github.com/ChefDavid0815/worktree-rescue) &nbsp; / &nbsp; [**安全模型 ↗**](https://github.com/ChefDavid0815/worktree-rescue/blob/main/SECURITY.md)
+
 
 
 <a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE：深灰与信号红的 2026 F1 影像档案海报。比赛结束，画面留下。" /></a>
@@ -160,6 +168,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **WORKTREE RESCUE 1.0** | 代理工作树的[“黑匣子”](https://github.com/ChefDavid0815/worktree-rescue)：已验证快照、记录仪与安全恢复；[Windows 版本](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0)。 |
 | **NABAT 1.1 / INJAZ** | 我的 [INJAZ 商赛作品](https://github.com/ChefDavid0815/nabat-injaz)，加入[生长档案展柜](https://chefzc.dev/school-gallery.html#project-nabat)。 |
 | **ROSERAIE 0.2.0** | [紫罗兰洛可可工坊](https://chefzc.dev/gallery.html#project-roseraie)加入任务级模型与推理设置；[Windows 新版](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0)已发布。 |
 | **ATLAS 0.3** | [IB 知识观星台](https://chefzc.dev/atlas/)上线，文艺复兴星空、双语笔记与新[展柜](https://chefzc.dev/gallery.html#project-atlas)开放。 |
@@ -180,6 +189,7 @@
 ### `04` &nbsp; 小小开始，认真向前
 
 ```text
+2026.10.16  ──  发布 Worktree Rescue 1.0：为 AI 代理工作树提供独立快照与安全恢复，中英双语。
 2026.10.09  ──  INJAZ 商赛作品 NABAT 加入校园实验室，配套原生软件展示窗与植物手记。
 2026.09.24  ──  发布蔷薇工坊 Roseraie 0.2.0：紫罗兰洛可可工坊、三线织思手账与新版展柜。
 2026.09.23  ──  发布 Atlas 0.3：知识观星台、文艺复兴展柜与中英双语观星手记。

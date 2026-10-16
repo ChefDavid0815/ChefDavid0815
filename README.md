@@ -21,6 +21,14 @@ A flight exploration and personalised recommendation product shaped by clear opt
 
 [**EXPLORE AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**OPTICAL GLASS EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 EDITION JOURNAL ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
 
+<a href="https://github.com/ChefDavid0815/worktree-rescue"><img src="assets/worktree-rescue.png" width="100%" alt="Actual Worktree Rescue 1.0 window: a recorder of four agent worktrees, with a deleted worktree flagged as holding uncaptured work." /></a>
+
+**WORKTREE RESCUE 1.0 · The black box for AI-assisted development** — your agents build. We preserve.
+
+A local-first Windows safety tool for the Git worktrees that Claude Code, Codex and other agents work in. It diagnoses missing or moved worktrees from evidence, keeps independent SHA-256-verified snapshots of uncommitted work, records every snapshot and Git event on a per-worktree recorder, and recovers files into a separate folder without touching the repository. Rust core, Tauri 2 and React; English / 中文. 49 Rust tests run against real temporary repositories, including proofs that monitoring and recovery leave the working tree, index and refs byte-identical. The installer is unsigned; it can only return what it captured or what Git still has.
+
+[**WINDOWS 1.0.0 ↓**](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0) &nbsp; / &nbsp; [**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/worktree-rescue) &nbsp; / &nbsp; [**SAFETY MODEL ↗**](https://github.com/ChefDavid0815/worktree-rescue/blob/main/SECURITY.md)
+
 
 
 <a href="https://afterimage.chefzc.dev/"><img src="assets/afterimage.png" width="100%" alt="AFTERIMAGE: a charcoal and signal-red 2026 Formula One visual archive poster. The race ends. The frame stays." /></a>
@@ -149,6 +157,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **WORKTREE RESCUE 1.0** | A [black box for agent worktrees](https://github.com/ChefDavid0815/worktree-rescue): verified snapshots, a recorder and safe recovery; [Windows release](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0). |
 | **NABAT 1.1 / INJAZ** | My [business competition work](https://github.com/ChefDavid0815/nabat-injaz), with a [living school exhibit](https://chefzc.dev/school-gallery.html#project-nabat). |
 | **ROSERAIE 0.2.0** | The [violet Rococo atelier](https://chefzc.dev/gallery.html#project-roseraie) now offers task-level model and reasoning choices; [Windows release](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0). |
 | **ATLAS 0.3** | [IB knowledge observatory](https://chefzc.dev/atlas/) with a Renaissance cosmos, bilingual study notes and a new [exhibition](https://chefzc.dev/gallery.html#project-atlas). |
@@ -170,6 +179,7 @@ Jay Chou · Joker Xue · G.E.M. · David Tao · Menni · Eason Chan · Vae Xu ·
 
 | Date | A page in the journal |
 | :--- | :--- |
+| **2026.10.16** | Released Worktree Rescue 1.0: independent snapshots and safe recovery for AI agent worktrees, in English and Chinese. |
 | **2026.10.09** | Added NABAT, my INJAZ competition work, with a botanical exhibit, native software window and field notes. |
 | **2026.09.24** | Released Roseraie 0.2.0: a violet Rococo atelier, a three-lane Weave journal and a new exhibition edition. |
 | **2026.09.23** | Released Atlas 0.3, opened its Renaissance observatory, gallery exhibit and bilingual field notes. |
