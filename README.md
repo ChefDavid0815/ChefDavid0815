@@ -21,6 +21,14 @@ A flight exploration and personalised recommendation product shaped by clear opt
 
 [**EXPLORE AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**OPTICAL GLASS EXHIBITION ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 EDITION JOURNAL ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
 
+<a href="https://github.com/ChefDavid0815/prism-nr"><img src="assets/prism-nr.svg" width="100%" alt="Prism NR: a black field of hairline barcode columns, a white sine lattice and the Prism NR wordmark. Light in, spectrum out." /></a>
+
+**PRISM NR 0.1.0 · DLSS 5 neural rendering manager** — light in, spectrum out.
+
+Community DLSS 5 mods are powerful but scattered, heavy and fiddly. Prism NR scans Steam, Epic, GOG and Xbox, reads each game's executable, blocks anti-cheat titles, picks the route that fits (native DLSS hook, OptiScaler Pre-SR or Feeder) and installs everything in one verified, reversible transaction. Presets follow the GPU, from an RTX 5090 to a 5060, alongside five art styles and 17 game profiles. Its own shaders guard fidelity, steady flicker and bring back texture, so neural rendering enhances rather than replaces. Pure black and white, hairline barcodes that encode real data, and motion turned all the way up. NVIDIA files are never downloaded; only signed copies already on your PC are used. A source preview: an end-to-end in-game install is not verified yet, and there is no signed installer.
+
+[**SOURCE · EN / 中文 ↗**](https://github.com/ChefDavid0815/prism-nr) &nbsp; / &nbsp; [**SAFETY MODEL ↗**](https://github.com/ChefDavid0815/prism-nr/blob/main/SECURITY.md) &nbsp; / &nbsp; [**DESIGN SYSTEM ↗**](https://github.com/ChefDavid0815/prism-nr/blob/main/DESIGN.md)
+
 <a href="https://github.com/ChefDavid0815/worktree-rescue"><img src="assets/worktree-rescue.png" width="100%" alt="Actual Worktree Rescue 1.0 window: a recorder of four agent worktrees, with a deleted worktree flagged as holding uncaptured work." /></a>
 
 **WORKTREE RESCUE 1.0 · The black box for AI-assisted development** — your agents build. We preserve.
@@ -157,6 +165,7 @@ A school presentation project with nine simulated walking environments, speech a
 
 | Signal | What's happening |
 | :--- | :--- |
+| **PRISM NR 0.1.0** | A [DLSS 5 neural rendering manager](https://github.com/ChefDavid0815/prism-nr): game scan, one-click guarded install, restore and native shader plugins; source preview. |
 | **WORKTREE RESCUE 1.0** | A [black box for agent worktrees](https://github.com/ChefDavid0815/worktree-rescue): verified snapshots, a recorder and safe recovery; [Windows release](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0). |
 | **NABAT 1.1 / INJAZ** | My [business competition work](https://github.com/ChefDavid0815/nabat-injaz), with a [living school exhibit](https://chefzc.dev/school-gallery.html#project-nabat). |
 | **ROSERAIE 0.2.0** | The [violet Rococo atelier](https://chefzc.dev/gallery.html#project-roseraie) now offers task-level model and reasoning choices; [Windows release](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0). |

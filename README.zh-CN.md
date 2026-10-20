@@ -30,6 +30,14 @@
 
 [**进入 AER ↗**](https://aer-personal-journeys.workspace-298846.chatgpt.site) &nbsp; / &nbsp; [**光学玻璃展柜 ↗**](https://chefzc.dev/gallery.html#project-aer) &nbsp; / &nbsp; [**1.1 版本手记 ↗**](https://chefzc.dev/gallery.html#aer-history) &nbsp; / &nbsp; [**NOW 027 ↗**](https://chefzc.dev/now.html#milestone-aer-11)
 
+<a href="https://github.com/ChefDavid0815/prism-nr"><img src="assets/prism-nr.svg" width="100%" alt="Prism NR：黑底上的发丝条码场、白色正弦格栅和 Prism NR 字标。一束光进去，一道光谱出来。" /></a>
+
+**PRISM NR 0.1.0 · DLSS 5 神经渲染管理器** — 一束光进去，一道光谱出来。
+
+社区的 DLSS 5 插件很强，但分散、吃配置，装起来也麻烦。Prism NR 扫描 Steam、Epic、GOG 和 Xbox，读取每个游戏的主程序，拦截带反作弊的游戏，自动选择合适的路线（原生 DLSS 挂钩、OptiScaler 前置或 Feeder），再用一次经过校验、可以还原的事务装好全部文件。方案按显卡分档，从 RTX 5090 到 5060 都有对应设置，另有五种画风和 17 个游戏的推荐配置。自带的着色器负责保真守护、消除闪烁、找回质感，让神经渲染只做增强，不做替换。纯黑白、编码真实数据的发丝条码，动效开到最满。NVIDIA 文件从不下载，只使用本机已有的签名副本。目前是源码预览版：还没有在真实游戏里完整验证安装，也没有签名安装包。
+
+[**源码 · EN / 中文 ↗**](https://github.com/ChefDavid0815/prism-nr) &nbsp; / &nbsp; [**安全模型 ↗**](https://github.com/ChefDavid0815/prism-nr/blob/main/SECURITY.md) &nbsp; / &nbsp; [**设计系统 ↗**](https://github.com/ChefDavid0815/prism-nr/blob/main/DESIGN.md)
+
 <a href="https://github.com/ChefDavid0815/worktree-rescue"><img src="assets/worktree-rescue.png" width="100%" alt="Worktree Rescue 1.0 实际窗口：四个代理工作树的记录仪，被删除的工作树被标记为存在未捕获的工作。" /></a>
 
 **WORKTREE RESCUE 1.0 · AI 辅助开发的“黑匣子”** — 代理负责构建，我们负责保全。
@@ -168,6 +176,7 @@
 
 | 信号 | 正在发生 |
 | :--- | :--- |
+| **PRISM NR 0.1.0** | [DLSS 5 神经渲染管理器](https://github.com/ChefDavid0815/prism-nr)：扫描游戏、一键安装与守护、可还原，附原生着色器插件；源码预览版。 |
 | **WORKTREE RESCUE 1.0** | 代理工作树的[“黑匣子”](https://github.com/ChefDavid0815/worktree-rescue)：已验证快照、记录仪与安全恢复；[Windows 版本](https://github.com/ChefDavid0815/worktree-rescue/releases/tag/v1.0.0)。 |
 | **NABAT 1.1 / INJAZ** | 我的 [INJAZ 商赛作品](https://github.com/ChefDavid0815/nabat-injaz)，加入[生长档案展柜](https://chefzc.dev/school-gallery.html#project-nabat)。 |
 | **ROSERAIE 0.2.0** | [紫罗兰洛可可工坊](https://chefzc.dev/gallery.html#project-roseraie)加入任务级模型与推理设置；[Windows 新版](https://github.com/ChefDavid0815/roseraie-agent/releases/tag/v0.2.0)已发布。 |
